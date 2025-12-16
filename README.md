@@ -115,9 +115,6 @@ This project uses a **Producer-Consumer** pattern:
 3.  **Client**: The React frontend polls the API to reflect these status changes in real-time.
 
 ---
-## DEMO
 
-
-https://github.com/user-attachments/assets/870d1025-0303-4610-980e-a5ff29e7bd70
 
 
